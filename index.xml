@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sovereign Individual</title>
+    <link>https://sovereign-individual.xyz/</link>
+    <description>Recent content on Sovereign Individual</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://sovereign-individual.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Optimizing Inputs and becoming Indistractable</title>
+      <link>https://sovereign-individual.xyz/posts/becoming-indistractable/</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sovereign-individual.xyz/posts/becoming-indistractable/</guid>
+      <description>Every year it&amp;rsquo;s getting more important to learn how to be focussed and productive. At the same time, it seems to get harder every year as well. With various news websites and (social) media platforms like Twitter and Youtube, the attack vector for distractions keeps growing at a fast pace. Add the COVID pandemic to the mix and we have a perfect trap that keeps us engaged in its infinity pools, while we&amp;rsquo;re trying to develop the right routines, discipline and workflows that help us focus on the things that really matter.</description>
+    </item>
+    
+    <item>
+      <title>Writing and publishing an ebook</title>
+      <link>https://sovereign-individual.xyz/posts/writing-an-ebook/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sovereign-individual.xyz/posts/writing-an-ebook/</guid>
+      <description>REBASE - The complete guide on rebasing in Git is officially released as of 31 January 2020 and I&amp;rsquo;d like to share the process of how I&amp;rsquo;ve managed to produce and publish the book in about two months, next to my full-time job. This can surve as a manual for other technological progressives to write and publish their own books.
+Table of contents:
+ A little bit of background Reevaluating the idea and getting feedback Announcing the Pre-sale launch Figuring out the writing process Getting a domain and reaching the first milestone Launching a first landing page Creating a book cover Setting up an email workflow Constant progress.</description>
+    </item>
+    
+    <item>
+      <title>The Impact of Meditating every day</title>
+      <link>https://sovereign-individual.xyz/posts/meditating-every-day/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sovereign-individual.xyz/posts/meditating-every-day/</guid>
+      <description>Meditation can open up surprisingly many doors when it comes to being more aware, mindful, focused and just at peace with yourself. I try to meditate every morning for about 15 minutes and been doing that for quite some time now. Originally, I tried to find a way to deal with anxiety, however, after such a long time of practing meditation, I get to observe how my mind and character have changed beyond my original motivation, which I find quite amazing.</description>
+    </item>
+    
+    <item>
+      <title>Leaving the comfort zone is necessary for growth</title>
+      <link>https://sovereign-individual.xyz/posts/leaving-the-comfort-zone/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sovereign-individual.xyz/posts/leaving-the-comfort-zone/</guid>
+      <description>It&amp;rsquo;s been about a year since I wrote about the urge to challenge myself and do something different to leave my comfort zone. Shortly after that, I joined the Embark team at Status and it&amp;rsquo;s been a very interesting ride so far. A new technology, a new environment, a new industry, a new scope to work on, a new audience to work with. There are probably a lot of other things that were (and still are) &amp;ldquo;new&amp;rdquo; to me.</description>
+    </item>
+    
+    <item>
+      <title>Contributing in Open Source</title>
+      <link>https://sovereign-individual.xyz/posts/contributing-in-open-source/</link>
+      <pubDate>Fri, 21 Sep 2018 12:52:19 +0200</pubDate>
+      
+      <guid>https://sovereign-individual.xyz/posts/contributing-in-open-source/</guid>
+      <description>After working on several open source projects and contributing to even more in the past, I thought it’s time to share some thoughts on what worked very well for me as a maintainer of my own, as well as contributor to other projects.
+Creating a healthy and inclusive environment for everyone in the world of open source can be hard and often requires a long breath and patience. The approaches and tips I’m sharing here may or may not work for you, however I do believe that most of the time it pays out and will have a positive impact for everyone involved.</description>
+    </item>
+    
+    <item>
+      <title>A Productivity Manifesto</title>
+      <link>https://sovereign-individual.xyz/posts/productivity-manifesto/</link>
+      <pubDate>Sat, 25 Aug 2018 14:00:09 +0100</pubDate>
+      
+      <guid>https://sovereign-individual.xyz/posts/productivity-manifesto/</guid>
+      <description>After reading quite a few books on productivity, lifestyle and mindfulness, and applying, integrating and practicing my learnings for quite a while in my daily life, I thought it would be useful to write down my thoughts on what works well for me in terms of getting things done throughout the day.
+There’s tons of productivity articles and resources out there and I’m sure some of my experiences overlap with what you’ve probably read somewhere else.</description>
+    </item>
+    
+    <item>
+      <title>IPFS Content Identifiers</title>
+      <link>https://sovereign-individual.xyz/posts/ipfs-content-identifiers/</link>
+      <pubDate>Mon, 06 Aug 2018 09:34:56 +0200</pubDate>
+      
+      <guid>https://sovereign-individual.xyz/posts/ipfs-content-identifiers/</guid>
+      <description>If you&amp;rsquo;ve used IPFS or watched one or the other talk or tutorial about it, you know that IPFS generates hashes for the data that&amp;rsquo;s being added to the network. While it might be obvious why that is (IPFS uses those hashes to identify content in the network), it&amp;rsquo;s less obvious how those hashes are being put together.
+Sure, there&amp;rsquo;s probably some hash algorithm applied to data, however it turns out that IPFS goes far beyond that as it uses a combination of Multiformat protocols to create its content identifiers and keep them future-proof, which I think is quite smart as we&amp;rsquo;ll soon learn.</description>
+    </item>
+    
+    <item>
+      <title>Future-proof cryptographic hashes</title>
+      <link>https://sovereign-individual.xyz/posts/future-proof-crypto-hashes/</link>
+      <pubDate>Wed, 11 Jul 2018 09:00:20 +0200</pubDate>
+      
+      <guid>https://sovereign-individual.xyz/posts/future-proof-crypto-hashes/</guid>
+      <description>I&amp;rsquo;d like to document my learnings as I&amp;rsquo;m diving into projects that catch my attention in the decentralization space, such as IPFS. If you aren&amp;rsquo;t familiar with IPFS or haven&amp;rsquo;t heard of it, it&amp;rsquo;s basically a stack of (networking) protocols that enables a fully distributed file storage system to creates a faster, safer and more reliable web.
+Hashes play a big role in IPFS as they are used to address content in a distributed network, similar to how Git uses hashes to address commits, trees and binary objects inside a repository (yep, you probably use them on a daily basis, without noticing).</description>
+    </item>
+    
+    <item>
+      <title>Why I use Vim</title>
+      <link>https://sovereign-individual.xyz/posts/why-i-use-vim/</link>
+      <pubDate>Tue, 18 Mar 2014 13:09:47 +0200</pubDate>
+      
+      <guid>https://sovereign-individual.xyz/posts/why-i-use-vim/</guid>
+      <description>The first question you get asked by developers of a company when starting at a new gig (after saying hello to everyone and having the first coffee), is probably:
+ So what tools or IDE do you prefer when working with code?
+ Right? Developers should always be interested and curious about what other developers do to make their daily work as pleasant as possible. They may use tools, editors or IDEs you&amp;rsquo;ve never heard of and it probably turns out that these tools give you what you&amp;rsquo;ve always been waiting for.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://sovereign-individual.xyz/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sovereign-individual.xyz/about/</guid>
+      <description>This website is an initiative inspired by 1729.com to serve as a place for technological progressives, including myself, to write, teach and learn about technology and the future. Articles and content on this website aim to be evergreen such that no minute spent here is wasted, as long as readers are into computer science, crypto and other related topics.
+About the author A short third person bio (shamelessly inspired by @Balajis):</description>
+    </item>
+    
+  </channel>
+</rss>
